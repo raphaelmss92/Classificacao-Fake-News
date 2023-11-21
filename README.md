@@ -1,4 +1,4 @@
-# relatorio-tecnico-PUC
+# Classificacao-Fake-News: Projeto final PUC-Minas
 
 ## Descrição:
 Este repositório contém os notebooks com códigos desenvolvidos para escrita do relatório técnico final, requisito obrigatório para a conclusão da especialização em Inteligência Artificial
